@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/jimblu/jimblu/blob/master/img/cover.jpg)
+![Cover](https://github.com/jimblu/jimblu/blob/master/img/cover.jpg?raw=true))
 
 <!--
 **jimblu/jimblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
