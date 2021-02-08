@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[<img align="left" alt="codeSTACKr.com" width="500px" src="https://user-images.githubusercontent.com/71411560/107284420-195e1b80-6a5e-11eb-8e67-54e1cc45cbbe.png" />]
-
+[<img align="left" alt="codeSTACKr.com" width="500px" src="https://user-images.githubusercontent.com/71411560/107284878-aef9ab00-6a5e-11eb-90b6-4c0be06eba89.png" />]
+<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
