@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jimblu/jimblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://user-images.githubusercontent.com/71411560/107282095-d3538880-6a5a-11eb-8a57-aafea541a58d.png" />]
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
