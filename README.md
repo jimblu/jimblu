@@ -1,8 +1,8 @@
 ### Hi there, I'm Jimmy 👋
 
 [<img align="left" alt="codeSTACKr.com" width="1000px" src="https://user-images.githubusercontent.com/71411560/107285655-c5543680-6a5f-11eb-964f-c4e194dfcffa.png" />]
-<br />
-
+<br/>
+<br/>
 
 ## Apprentice forever!
 
