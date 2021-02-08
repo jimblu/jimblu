@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="left" alt="codeSTACKr.com" width="500px" src="https://github.com/jimblu/portfolio/files/5946952/Yellow.Modern.Actor.Artist.Business.Card.pdf" />]
+[<img align="left" alt="codeSTACKr.com" width="500px" src="https://user-images.githubusercontent.com/71411560/107284420-195e1b80-6a5e-11eb-8e67-54e1cc45cbbe.png" />]
 
 Here are some ideas to get you started:
 
