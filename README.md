@@ -1,6 +1,6 @@
 ### Hi there, I'm Jimmy 👋   I am looking for a work-study !
 
-<img align="left" alt="codeSTACKr.com" width="1000px" src="https://user-images.githubusercontent.com/71411560/108400791-ebc26080-721b-11eb-8fd6-7def1f97a60d.mp4" /><br/>
+<img align="left" alt="codeSTACKr.com" width="1000px" src="https://user-images.githubusercontent.com/71411560/108400975-21674980-721c-11eb-85a4-ea4587cef959.png" /><br/>
 
 ## Apprentice forever!
 
