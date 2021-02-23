@@ -5,7 +5,7 @@
 ## Apprentice forever!
 
 - 🔭 I’m currently working on a React chat application
-- 🌱 I’m currently learning ReactJs, PHP and more !
+- 🌱 I’m currently learning ReactJs, NodeJS .. !
 - 🤔 I’m looking for help with my work-study search !!!!
 - ⚡ Fun fact: I play guitar to be like Keziah Jones
 
